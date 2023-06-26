@@ -17,11 +17,13 @@
 body, html {
     background:  #5f2c82;
     height: 100vh;
+    width: 100vw;
 }
 
 main {
     position: relative;
     height: 100vh;   
+    width: 100vw;
 }
 
 #login {
@@ -52,3 +54,12 @@ div#formulario {
     display: block;
     padding: 10px;
 }
+
+    .form-titulo {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .form-paragrafo {
+        font-size: 0.8em;
+    }
