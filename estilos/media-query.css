@@ -8,6 +8,7 @@
 
     section#login {
         width: 80vw;
+        height: 300px;
     }
 
     section > div#imagem {
@@ -29,6 +30,7 @@
 
     section#login {
         width: 970px;
+        height: 330px;
     }
 
     section > div#imagem {
@@ -44,5 +46,6 @@
 
     .form-paragrafo {
         font-size: 1.2em;
+        margin: 10px;
     }
 }
